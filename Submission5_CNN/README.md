@@ -31,4 +31,4 @@ python cnn.py -i "Raw Data" -t "Malware Types.txt" -s 42 -o pm -c type
 
 python cnn.py -i "Raw Data" -t "Malware Types.txt" -s 42 -o pm -c group
 
-####Note: This script takes a long time to run (multiple hours) due to the use of Leave-One-Out Cross-Validation
+### Note: This script takes a long time to run (multiple hours) due to the use of Leave-One-Out Cross-Validation
